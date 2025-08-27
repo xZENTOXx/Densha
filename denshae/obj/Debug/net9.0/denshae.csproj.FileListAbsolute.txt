@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\bin\Debug\net9.0\denshae.exe
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\bin\Debug\net9.0\denshae.deps.json
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\bin\Debug\net9.0\denshae.runtimeconfig.json
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\bin\Debug\net9.0\denshae.dll
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\bin\Debug\net9.0\denshae.pdb
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\denshae.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\denshae.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\denshae.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\denshae.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\denshae.sourcelink.json
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\denshae.dll
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\refint\denshae.dll
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\denshae.pdb
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\denshae.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\Programación\Desarrollo De Software\Densha\denshae\obj\Debug\net9.0\ref\denshae.dll
