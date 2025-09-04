@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\denshae.csproj": {}
+    "c:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\denshae.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\denshae.csproj": {
+    "c:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\denshae.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\denshae.csproj",
+        "projectUniqueName": "c:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\denshae.csproj",
         "projectName": "denshae",
-        "projectPath": "C:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\denshae.csproj",
+        "projectPath": "c:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\denshae.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\obj\\",
+        "outputPath": "c:\\Users\\USUARIO\\Documents\\Programación\\Desarrollo De Software\\Densha\\denshae\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
